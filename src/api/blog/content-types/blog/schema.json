@@ -33,6 +33,10 @@
         "audios"
       ]
     },
+    "oembed": {
+      "type": "customField",
+      "customField": "plugin::oembed.oembed"
+    },
     "content": {
       "type": "richtext"
     },
